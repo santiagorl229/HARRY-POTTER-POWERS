@@ -1,0 +1,3 @@
+# Ignorar archivos de compilación
+node_modules/
+dist/
